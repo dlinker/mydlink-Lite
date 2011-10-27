@@ -1,0 +1,3 @@
+The myH264VideoFrameExtrator library provide H264 decode for mydlink Lite.
+
+Notes: This library refers to FFmpeg, gas-preprocessor and iFrameExtractor.
